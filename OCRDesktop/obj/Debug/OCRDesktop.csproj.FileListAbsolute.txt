@@ -1,0 +1,17 @@
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\x64\tesseract41.dll
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\OCRDesktop.exe
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\Tesseract.dll
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\x86\tesseract41.dll
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\OCRDesktop.exe.config
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.csproj.AssemblyReference.cache
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.Form1.resources
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.Properties.Resources.resources
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.csproj.GenerateResource.cache
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.csproj.CoreCompileInputs.cache
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.csproj.CopyComplete
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.exe
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\obj\Debug\OCRDesktop.pdb
+C:\Users\hijriananda.salam\source\repos\OCRDesktop\OCRDesktop\bin\Debug\OCRDesktop.pdb
